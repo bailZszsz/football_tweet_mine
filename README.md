@@ -1,10 +1,11 @@
-# football_tweet_mine
+# Football Sentiment Analysis
 An introductory sentiment analysis project I'm currently* working on.
 
-This is my first data science project. My aim is to attempt a sentiment analysis on Arsenal's Tweets from January-March (pre covid season suspension) and see if they are representative of the season they've had.
+This is my first data science project. 
+My aim is to attempt a sentiment analysis on Arsenal's Tweets from January-March (pre covid season suspension) and see if they are representative of the season they've had.
 My plan is to use matplotlib, and create a graph to visualise my findings (i.e date of tweet against it's sentiment score).
 
-It's been a great learning experience so far! I've also learnt a LOT about emojis and unicode (and plan to run a sentiment analysis on them too) 
+I dived head first into this project, but it's been a great learning experience so far! I've also learnt a LOT about emojis and unicode (and plan to run a sentiment analysis on them too). I've also learnt about pandas, numpy, and textblob libraries.  
 
 After I have finished he task above, I plan on using Norwich's tweets (a team that has been relegated) in the same timeframe, to see if my sentiment analysis is accurate.
 
